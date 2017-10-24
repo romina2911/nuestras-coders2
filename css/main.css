@@ -1,0 +1,48 @@
+*{
+  box-sizing: border-box;
+}
+
+h1 {
+ text-align:left;
+ font-family: courier, sans-serif;
+ color: dimgrey;
+
+}
+
+hr {
+  height: 8px;
+  width: 70px;
+  float: left;
+  margin-top:10px;
+  background-color: dimgrey;
+}
+
+
+.container {
+  clear: left;
+  float: left;
+  padding: 50px;
+}
+
+
+.caja {
+   border: 1px;
+   width: 280px;
+   height: 280px;
+  padding: 15px;
+   margin-left: 8px;
+   float: left;
+}
+
+p {
+  font-family: courier, sans-serif;
+  text-align: right;
+
+
+
+}
+img {
+
+padding: 10px;
+max-width: 100%;
+}
